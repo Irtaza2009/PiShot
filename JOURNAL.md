@@ -12,7 +12,7 @@ Started by looking up all the different Pi Camera modules and comparing their re
 Then I made a list of all the components I would need! I decided to go with a 1500mAh 3.7V LiPo battery with an MT3608 boost converter, and a TP4056 module (with protection) to charge it! (At first, I was considering a power bank or an 18650 cell, but those are too bulky!)
 For the display, I will be using the ST7789 TFT-LCD. And a metal momentary push button (similar to [this](https://www.adafruit.com/product/558), but without the LED ring!) for the shutter button! And I will also place an SPDT slide switch to turn it on and off!
 
-I decided that I won't be using a PCB, so it's easier to place all the components in the case. So I will make a wiring diagram instead! Thus, I opened up [Cirkit Designer](https://app.cirkitdesigner.com/), and got to work!! This is what I came up with!
+I decided that I won't be using a PCB, so it's easier to place all the components in the case. So I will make a wiring diagram instead! Thus, I opened up [Cirkit Designer](https://app.cirkitdesigner.com/), and got to work!! [This](https://app.cirkitdesigner.com/project/cb34b867-8320-4c2c-972f-24cbd0726ab1) is what I came up with!
 
 <img width="3000" height="2114" alt="circuit_image" src="https://github.com/user-attachments/assets/a3ad78c9-99e0-4964-ba3e-49aed0464589" />
 
