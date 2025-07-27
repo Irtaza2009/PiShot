@@ -34,3 +34,20 @@ I began by placing each component into the interior of the case, ensuring that t
 <img width="478" height="425" alt="image" src="https://github.com/user-attachments/assets/fc9df2a5-7879-43af-b704-9b1fc7ae334f" />
 
 **Total time spent: 7 hours**
+
+### July 27th: Buttons + USB C port + TP4056 supports
+
+Looked through the datasheet for [these](https://tech.alpsalpine.com/e/products/detail/SKRGAED010/) circle micro pushbuttons and noted their size, then made a cool to-size slot for them in the case!
+
+<img width="464" height="454" alt="image" src="https://github.com/user-attachments/assets/ae0a2edd-2afa-437c-99ed-293c89fa130a" />
+<img width="470" height="364" alt="image" src="https://github.com/user-attachments/assets/0ec3f5a8-b3d0-4699-aec6-0cfc5d02fd34" />
+<img width="478" height="293" alt="image" src="https://github.com/user-attachments/assets/88141bc2-0f38-4adf-bcb5-248ea1174a5c" />
+
+
+Then also made a slot for the USB-C port, and some supports for the TP4056!
+
+<img width="513" height="300" alt="image" src="https://github.com/user-attachments/assets/b95e5e53-d03f-4943-bd9b-898d2694520d" />
+<img width="564" height="399" alt="image" src="https://github.com/user-attachments/assets/7cf7fe17-e186-4c2e-bb00-3eb7cf105a50" />
+
+**Total Time spent: 2 hours**
+
