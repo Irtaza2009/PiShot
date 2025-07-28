@@ -51,3 +51,21 @@ Then also made a slot for the USB-C port, and some supports for the TP4056!
 
 **Total Time spent: 2 hours**
 
+### July 28th: Tripod + Viewfinder
+
+Inspired by the removable Sony viewfinder, I also decided to make one too! It will also have a sliding mechanism like the grip! I started by making an extrusion and adding the sliding mechanism, then I made a separate rectangle body, with a rectangle hole in the middle (this will be the viewfinder). I then fillet/chamfered it to look more trapezium-ish, like a real viewfinder. And finally, I also added some nice rounded supports to rest the eye on! These were the final results!!
+
+<img width="264" height="202" alt="image" src="https://github.com/user-attachments/assets/bdaa236d-85d6-43ef-928d-cbd158be57eb" />
+<img width="304" height="248" alt="image" src="https://github.com/user-attachments/assets/503a9167-95cc-40ec-9e1c-2ef69dca1110" />
+
+Then I thought about adding support for standard tripods! And, of course, I think the sliding mechanism is super cool, so I built another bit of it on the bottom of the case, and then made a cube with a screw hole in it! Thankfully, I discovered Shapr3d's subtract tool, or I don't think I could have ever made the screw curve paths!! And finally rounded off the edges to make it look more polished!
+
+<img width="306" height="255" alt="image" src="https://github.com/user-attachments/assets/05ae695a-6135-43d5-aa06-1e5e8aa951f6" />
+
+Then I remembered I had forgotten to add a space for the SPDT On/Off switch, so I added that!
+
+<img width="145" height="97" alt="image" src="https://github.com/user-attachments/assets/4d4c5abe-a00a-485f-bb30-608b4c7e27c6" />
+
+**Total Time spent: 3 hours**
+
+
