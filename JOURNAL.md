@@ -14,7 +14,7 @@ For the display, I will be using the ST7789 TFT-LCD. And a metal momentary push 
 
 I decided that I won't be using a PCB, so it's easier to place all the components in the case. So I will make a wiring diagram instead! Thus, I opened up [Cirkit Designer](https://app.cirkitdesigner.com/), and got to work!! [This](https://app.cirkitdesigner.com/project/cb34b867-8320-4c2c-972f-24cbd0726ab1) is what I came up with!
 
-<img width="3000" height="2114" alt="circuit_image" src="https://github.com/user-attachments/assets/a3ad78c9-99e0-4964-ba3e-49aed0464589" />
+<img width="3000" height="2013" alt="circuit_image (1)" src="https://github.com/user-attachments/assets/8c0cb2bf-a454-4c5b-81e3-681301218cdd" />
 
 **Total time spent: 3.5 hours**
 
