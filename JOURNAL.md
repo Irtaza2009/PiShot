@@ -62,10 +62,29 @@ Then I thought about adding support for standard tripods! And, of course, I thin
 
 <img width="306" height="255" alt="image" src="https://github.com/user-attachments/assets/05ae695a-6135-43d5-aa06-1e5e8aa951f6" />
 
-Then I remembered I had forgotten to add a space for the SPDT On/Off switch, so I added that!
+Then I remembered I had forgotten to add space for the SPDT On/Off switch, so I added that!
 
 <img width="145" height="97" alt="image" src="https://github.com/user-attachments/assets/4d4c5abe-a00a-485f-bb30-608b4c7e27c6" />
 
 **Total Time spent: 3 hours**
 
+### July 29th: Finished Design
 
+The only thing left now was some final polishing- wait, I forgot to make space for a rechargeable battery!! So I imported a model of an 18650 cell, and tried to make space for it! But I couldn't :(. So finally I split my case (front, back, grip, everything) into two parts, increased its height by 5mm, and then joined it once again! So now my case was 5mm taller, and I could fit the battery inside too! And then I had to move around all the slots like front buttons, screen, camera hole, etc, around to centre them again and make them look nice!
+
+<img width="430" height="379" alt="image" src="https://github.com/user-attachments/assets/48c26c1a-e7cd-49ee-bbdf-468fa7159d4c" />
+<img width="382" height="379" alt="image" src="https://github.com/user-attachments/assets/0203dd44-053e-4d89-bec9-d0dd035a015f" />
+
+<img width="468" height="442" alt="image" src="https://github.com/user-attachments/assets/7d050b3b-c135-4082-9f34-17d2d82d5d1b" />
+<img width="514" height="442" alt="image" src="https://github.com/user-attachments/assets/d11e9813-90ac-4d53-b4ab-347e53442fbc" />
+
+And then I also added some text to the front of the camera, for _personalisation_!
+
+<img width="398" height="277" alt="image" src="https://github.com/user-attachments/assets/961ffaab-5933-4ffc-a89a-37eb2c37df23" />
+
+Final 3d design!!
+
+<img width="474" height="407" alt="image" src="https://github.com/user-attachments/assets/352f30d1-cc85-4969-8895-ab5d76c42ac4" />
+<img width="420" height="407" alt="image" src="https://github.com/user-attachments/assets/0605512e-7c4c-4b2d-bf0e-a7fdc5f751d8" />
+
+**Total Time spent: 2.5 hours**
