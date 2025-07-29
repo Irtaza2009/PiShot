@@ -5,6 +5,8 @@ description: "A Raspberry Pi Zero 2W Camera with an LCD display, buttons, and a 
 created_at: "2025-07-26"
 ---
 
+### Total Time Spent: ~19 hours!
+
 ### July 25th: Research + Wiring Diagram
 The plan is to make a Camera with a custom 3d case (with a tripod, grip, and viewfinder), using the Raspberry Pi Zero 2W, and the Pi camera module 3, and the ST7789 LCD, that stores the photos on an SD card, and you can view the last photo (and explore all the shoots) on the display!! It will be in the Cyber-shot form factor!!
 
@@ -44,7 +46,7 @@ Looked through the datasheet for [these](https://tech.alpsalpine.com/e/products/
 <img width="478" height="293" alt="image" src="https://github.com/user-attachments/assets/88141bc2-0f38-4adf-bcb5-248ea1174a5c" />
 
 
-Then also made a slot for the USB-C port, and some supports for the TP4056!
+Then, I also made a slot for the USB-C port, and some supports for the TP4056!
 
 <img width="513" height="300" alt="image" src="https://github.com/user-attachments/assets/b95e5e53-d03f-4943-bd9b-898d2694520d" />
 <img width="564" height="399" alt="image" src="https://github.com/user-attachments/assets/7cf7fe17-e186-4c2e-bb00-3eb7cf105a50" />
@@ -88,3 +90,11 @@ Final 3d design!!
 <img width="420" height="407" alt="image" src="https://github.com/user-attachments/assets/0605512e-7c4c-4b2d-bf0e-a7fdc5f751d8" />
 
 **Total Time spent: 2.5 hours**
+
+### July 30th: Made firmware
+
+Got to work on coding the firmware for the Pi! I have never before used a Pi Zero 2w, but it was super easy to code for it because, well, it's a full Linux computer! So no flashing or stuff, I just have to make a Python file and add it to run on boot!
+
+Right now, I randomly assigned the GPIO pins in the code because I don't know what pin I might end up using for what. The script ~~should~~ will: display a splash screen, wait for shutter button press, capture image from camera, and save it to SD card with a timestamped filename!
+
+**Total Time spent: 1 hour**
