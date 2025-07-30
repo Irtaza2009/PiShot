@@ -1,14 +1,15 @@
-Component Description,Quantity,Price (USD),Link
-Raspberry Pi Zero 2 W,1,30.00,https://www.aliexpress.com/item/1005007982832720.html?spm=a2g0o.productlist.main.1.3ac45c8eoRSZ0P&algo_pvid=7f15c922-55bb-4ea5-9678-833fa37339b3&algo_exp_id=7f15c922-55bb-4ea5-9678-833fa37339b3-0&pdp_ext_f=%7B%22order%22%3A%22388%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21PKR%214618.01%214618.01%21%21%2114.55%2114.55%21%40212e508f17538239412964801e2bd8%2112000043146501588%21sea%21PK%210%21ABX&curPageLogUid=11nvQBWDvHmE&utparam-url=scene%3Asearch%7Cquery_from%3A
-Raspberry Pi Camera Module 3,1,40.00,https://mekatroniks.com/product/raspberry-pi-camera-12mp-v3-official-camera-in-pakistan/
-ST7789 1.3" 240x240 SPI Display,1,5.00,https://digilog.pk/products/1-3-inch-i2c-iic-4-pin-oled-display-in-pakistan?_pos=1&_sid=0fd032c26&_ss=r
-2-pin Tactile Push Buttons,4,1.00,https://digilog.pk/products/round-tactile-micro-push-button-switch-in-pakistan?_pos=1&_sid=07e65fea2&_ss=r
-Momentary Push Button,1,1.00,https://digilog.pk/products/black-momentary-spst-cap-push-button-switch-ac-6a-125v-3a-250v-lwus?_pos=18&_sid=b0bd41c08&_ss=r
-18650 Battery 3.7V 1500mAh,1,2.00,https://digilog.pk/products/18650-lithium-ion-cell-in-pakistan?_pos=14&_sid=ea23fbbd7&_ss=r
-TP4056 Charging Module (with protection),1,1.50,https://www.daraz.pk/products/tp4056-c-i418844804-s1982984123.html
-5V Boost Converter (MT3608),1,1.00,https://digilog.pk/products/mt3608-2a-max-dc-dc-step-up-power-module-booster-power-module-in-pakistan?_pos=1&_sid=ff3bd050d&_ss=r
-MicroSD Card (32GB),1,6.00,https://digilog.pk/products/class-10-sandisk-32gb-ultra-micro-sd-card-for-raspberry-pi?_pos=2&_sid=e4692a0f6&_ss=r
-Slide Switch,1,0.20,https://digilog.pk/products/3-pin-8-5mm-mini-vertical-spdt-slide-switch-toggle-switchhttps-digilog-pk-products-3-pin-12mm-mini-vertical-spdt-slide-switch-in-pakistan-_pos-1-_sid-ea065168d-_ss-r?_pos=4&_sid=10d4dac9a&_ss=r
-Wires / Jumper Cables,20+,1.00,https://digilog.pk/products/20cm-pin-to-pin-jumper-wire-dupont-line-40-pin-arduino-male-to-male-jumper-wire-in-pakistan?_pos=9&_sid=71a7ce6a4&_ss=r
-Shipping (Estimated),1,10.00,Calculated total shipping for all items
-Custom 3D Printed Case,1,20.00,https://jlcpcb.com/ (coupon!)
+,,,,,,
+,Component Description,Quantity,Price (USD),Link,,
+,Raspberry Pi Zero 2 W,1,30.00,https://www.aliexpress.com/item/1005007982832720.html?spm=a2g0o.productlist.main.1.3ac45c8eoRSZ0P&algo_pvid=7f15c922-55bb-4ea5-9678-833fa37339b3&algo_exp_id=7f15c922-55bb-4ea5-9678-833fa37339b3-0&pdp_ext_f=%7B%22order%22%3A%22388%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21PKR%214618.01%214618.01%21%21%2114.55%2114.55%21%40212e508f17538239412964801e2bd8%2112000043146501588%21sea%21PK%210%21ABX&curPageLogUid=11nvQBWDvHmE&utparam-url=scene%3Asearch%7Cquery_from%3A,,
+,Raspberry Pi Camera Module 3,1,40.00,https://mekatroniks.com/product/raspberry-pi-camera-12mp-v3-official-camera-in-pakistan/,,
+,"ST7789 1.3"" 240x240 SPI Display",1,5.00,https://digilog.pk/products/1-3-inch-i2c-iic-4-pin-oled-display-in-pakistan?_pos=1&_sid=0fd032c26&_ss=r,,
+,2-pin Tactile Push Buttons,4,1.00,https://digilog.pk/products/round-tactile-micro-push-button-switch-in-pakistan?_pos=1&_sid=07e65fea2&_ss=r,,
+,Momentary Push Button,1,1.00,https://digilog.pk/products/black-momentary-spst-cap-push-button-switch-ac-6a-125v-3a-250v-lwus?_pos=18&_sid=b0bd41c08&_ss=r,,
+,18650 Battery 3.7V 1500mAh,1,2.00,https://digilog.pk/products/18650-lithium-ion-cell-in-pakistan?_pos=14&_sid=ea23fbbd7&_ss=r,,
+,TP4056 Charging Module (with protection),1,1.50,https://www.daraz.pk/products/tp4056-c-i418844804-s1982984123.html,,
+,5V Boost Converter (MT3608),1,1.00,https://digilog.pk/products/mt3608-2a-max-dc-dc-step-up-power-module-booster-power-module-in-pakistan?_pos=1&_sid=ff3bd050d&_ss=r,,
+,MicroSD Card (32GB),1,6.00,https://digilog.pk/products/class-10-sandisk-32gb-ultra-micro-sd-card-for-raspberry-pi?_pos=2&_sid=e4692a0f6&_ss=r,,
+,Slide Switch,1,0.20,https://digilog.pk/products/3-pin-8-5mm-mini-vertical-spdt-slide-switch-toggle-switchhttps-digilog-pk-products-3-pin-12mm-mini-vertical-spdt-slide-switch-in-pakistan-_pos-1-_sid-ea065168d-_ss-r?_pos=4&_sid=10d4dac9a&_ss=r,,
+,Wires / Jumper Cables,20,1.00,https://digilog.pk/products/20cm-pin-to-pin-jumper-wire-dupont-line-40-pin-arduino-male-to-male-jumper-wire-in-pakistan?_pos=9&_sid=71a7ce6a4&_ss=r,,
+,Shipping (Estimated),1,10.00,Calculated total shipping for all items,,
+,Custom 3D Printed Case,1,20.00,https://jlcpcb.com/ (coupon!),,
