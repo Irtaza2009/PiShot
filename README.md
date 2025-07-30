@@ -1,6 +1,6 @@
 # PiShot
 
-<img width="430" height="379" alt="image" src="https://github.com/user-attachments/assets/48c26c1a-e7cd-49ee-bbdf-468fa7159d4c" />
+!()[https://github.com/user-attachments/assets/48c26c1a-e7cd-49ee-bbdf-468fa7159d4c]
 
 A Raspberry Pi Zero 2W Camera with an LCD display, buttons, and a custom case! Works with the Pi Camera Module 3!
 
@@ -33,4 +33,6 @@ All the 3d printed parts are custom-made by me!! It has a detachable grip, viewf
 | Shipping                                 | 1         | 10.00        | Calculated total shipping for all items!     |
 | Custom 3D Printed Case                   | 1         | 20.00        | JLCPCB (because coupon)     |
 
-**Total Cost (without external 3d printing): $100**
+Subtotal (excluding external 3d printing): US$100
+
+Estimated cost (including components, 3d parts and shipping): US$110 (with a coupon!)
