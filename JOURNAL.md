@@ -97,4 +97,14 @@ Got to work on coding the firmware for the Pi! I have never before used a Pi Zer
 
 Right now, I randomly assigned the GPIO pins in the code because I don't know what pin I might end up using for what. The script ~~should~~ will: display a splash screen, wait for shutter button press, capture image from camera, and save it to SD card with a timestamped filename!
 
+### IRL Building!!
+
+## August 20th: Finished buidling prototype
+
+All of the parts arrived today except for the Pi Zero W camera ribbon cable and the 3d case. So I decided to start and make a breadboard prototype to make sure everything works, and also just to make everything with the camera functionality, so I only need to connect the camera when the cable arrives!
+
+First, I flashed an SD card with Pi OS, with SSH enabled, and put that into the Pi Zero 2W! Then I SSHed into it! And it was really fun! The interface was interesting! Then I used nano for the first time, and it was pretty easy to use after learning the shortcuts (though selection is pretty hard).
+
+<img width="1978" height="1088" alt="WindowsTerminal_ovPsQCGSl1" src="https://github.com/user-attachments/assets/afde9b71-8a98-4fbd-b676-77d7b995066a" />
+
 **Total Time spent: 1 hour**
