@@ -97,14 +97,22 @@ Got to work on coding the firmware for the Pi! I have never before used a Pi Zer
 
 Right now, I randomly assigned the GPIO pins in the code because I don't know what pin I might end up using for what. The script ~~should~~ will: display a splash screen, wait for shutter button press, capture image from camera, and save it to SD card with a timestamped filename!
 
+**Total Time spent: 1 hour**
+
 ### IRL Building!!
 
-## August 20th: Finished buidling prototype
+### August 20th: Finished buidling prototype
 
 All of the parts arrived today except for the Pi Zero W camera ribbon cable and the 3d case. So I decided to start and make a breadboard prototype to make sure everything works, and also just to make everything with the camera functionality, so I only need to connect the camera when the cable arrives!
 
-First, I flashed an SD card with Pi OS, with SSH enabled, and put that into the Pi Zero 2W! Then I SSHed into it! And it was really fun! The interface was interesting! Then I used nano for the first time, and it was pretty easy to use after learning the shortcuts (though selection is pretty hard).
+First, I flashed an SD card with Pi OS, with SSH enabled, and put that into the Pi Zero 2W! Then I SSHed into it! And it was really fun! I might even have got lost playing with all the different settings and testing out the different RPi features like RPi connect c:! The interface was interesting! Then I used nano for the first time to code, and it was pretty easy to use after learning the shortcuts (though selection is pretty hard).
 
 <img width="1978" height="1088" alt="WindowsTerminal_ovPsQCGSl1" src="https://github.com/user-attachments/assets/afde9b71-8a98-4fbd-b676-77d7b995066a" />
 
-**Total Time spent: 1 hour**
+After that, I looked up the pin layout for the Pi Zero 2 W, attached my shutter and pushbuttons, and my OLED. The buttons worked fine, but it took a lot of time to make the LED work! And after a lot of going back and forth, debugging the LED, I found out that it was not a 128x64 SSD1306, but a 132x64 SH1106. So I downloaded its libraries, updated my code, and it started working!
+
+Then I brought out my soldering iron and got to work soldering the power components! I think everything was correctly set up, but I didn't connect it to the Pi just yet, because I don't know what output voltage the MT3608 is set to, as I don't have a multimeter, and don't want to fry my Pi Zero 2 W.
+
+Now I just have to wait for the Pi Zero 2 W camera ribbon cable to arrive!!
+
+**Total time spent: 4.5 hours**
