@@ -1,6 +1,8 @@
 # PiShot
 
-![](https://github.com/user-attachments/assets/3aee6806-2d36-4192-8d7c-bee7fd4db382)
+<!-- ![](https://github.com/user-attachments/assets/3aee6806-2d36-4192-8d7c-bee7fd4db382) -->
+
+<img src="https://github.com/user-attachments/assets/3aee6806-2d36-4192-8d7c-bee7fd4db382" alt="PiShot" width="100%">
 
 A Raspberry Pi Zero 2W Camera with an LCD display, buttons, and a custom case! Works with the Pi Camera Module 3!
 
