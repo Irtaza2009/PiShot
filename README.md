@@ -2,7 +2,33 @@
 
 <!-- ![](https://github.com/user-attachments/assets/3aee6806-2d36-4192-8d7c-bee7fd4db382) -->
 
-<img src="https://github.com/user-attachments/assets/3aee6806-2d36-4192-8d7c-bee7fd4db382" alt="PiShot" width="100%">
+<!--
+<img src="https://github.com/user-attachments/assets/3aee6806-2d36-4192-8d7c-bee7fd4db382" alt="PiShot" width="40%">
+
+<img top="1px" width="40%" alt="Kumar-Method-1-Test (1)" src="https://github.com/user-attachments/assets/0a889f7f-6fda-426b-9e32-812231da81b7" />
+
+<img  alt="Screenshot_20260708_015723_Gallery" src="https://github.com/user-attachments/assets/76464184-7e88-48dc-a418-8216e5646401" width="40%" />
+-->
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github.com/user-attachments/assets/3aee6806-2d36-4192-8d7c-bee7fd4db382" width="100%">
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/76464184-7e88-48dc-a418-8216e5646401" width="100%">
+
+</td>
+
+<td width="50%">
+
+<img src="https://github.com/user-attachments/assets/0a889f7f-6fda-426b-9e32-812231da81b7" width="100%">
+
+</td>
+</tr>
+</table>
 
 A Raspberry Pi Zero 2W Camera with an LCD display, buttons, and a custom case! Works with the Pi Camera Module 3!
 
